@@ -1,0 +1,21 @@
+{
+  "name": "bppractice05",
+  "version": "1.0.0",
+  "homepage": "https://github.com/BeaueRogers/bppractice05",
+  "authors": [
+    "Beau Rogers <Beauerogers@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "foundation": "~5.5.2",
+    "lodash": "~3.8.0"
+  }
+}
